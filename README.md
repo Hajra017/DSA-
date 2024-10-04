@@ -21,6 +21,6 @@
 
 # CPU Process Scheduling
 -![image](https://github.com/user-attachments/assets/bcbb5a9c-b1e2-4f23-a067-a3f249f65487)
-- #Prime Number Calculation
+# Prime Number Calculation
 -![image](https://github.com/user-attachments/assets/5f54d515-7cbf-4ec9-98fe-173d893ea521)
 
